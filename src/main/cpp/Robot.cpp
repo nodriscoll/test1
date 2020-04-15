@@ -16,6 +16,8 @@
  *
  * Joystick analog values range from -1 to 1 and speed controller inputs as
  * range from -1 to 1 making it easy to work together.
+ * 
+ * We should add a bunch more comments
  */
 class Robot : public frc::TimedRobot {
  public:
